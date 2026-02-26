@@ -1,0 +1,10 @@
+/output
+/.idea
+*.pyc
+/build
+*.spec
+/.vscode
+/audio
+/dist
+/predef_ref
+~$*.xlsx
